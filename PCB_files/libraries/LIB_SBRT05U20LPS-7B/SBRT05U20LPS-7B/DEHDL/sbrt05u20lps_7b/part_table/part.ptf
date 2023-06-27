@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SBRT05U20LPS_7B'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Diodes Inc.", "SBRT05U20LPS-7B" (!) = "", "SBRT05U20LPS7B", "Other", "621-SBRT05U20LPS-7B", "https://www.mouser.co.uk/ProductDetail/Diodes-Incorporated/SBRT05U20LPS-7B?qs=HXFqYaX1Q2x3D%2FyKVrtKtA%3D%3D", "Rectifiers Super Barrier Rectifier", "", "0.4 mm"
+END_PART
+
+END.

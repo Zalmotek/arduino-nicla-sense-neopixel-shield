@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SBRT05U20LPS-7B"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-12-20-17:42:41)
+    (mountForm default
+        (footprintRef "SBRT05U20LPS7B")
+        (spec "System")
+    )
+)

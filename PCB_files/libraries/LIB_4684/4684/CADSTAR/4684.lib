@@ -1,0 +1,16 @@
+.4684 :1 ;Adafruit Accessories NeoPixel Nano 2020 RGB LEDs - 10-pack - WS2812B
+"4684"
+*STM LED
+*NGS
+*PLB 1="DO" 2="GND" 3="DI" 4="VDD"
+*MXP 4
+*DFN 4684
+~!Mouser Part Number (485-4684)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Adafruit/4684?qs=DPoM0jnrROWIv9%2FMCIm5vw%3D%3D)
+~!Manufacturer_Name (Adafruit)
+~!Manufacturer_Part_Number (4684)
+~!Link Datasheet (https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf)
+~!Height (0.84mm)
+~!3D_Model (4684)
+"4684"
+1.1!U 2.1!U 3.1!U 4.1!U 

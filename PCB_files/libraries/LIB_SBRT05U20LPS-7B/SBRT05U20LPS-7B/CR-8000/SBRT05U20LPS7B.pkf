@@ -1,0 +1,10 @@
+(unit MM)
+
+(package "SBRT05U20LPS7B"
+    (type UNDEF)
+    (uver 2)
+    (mountForm default
+        (footprintRef "SBRT05U20LPS7B")
+        (spec "default")
+    )
+)

@@ -1,0 +1,9 @@
+Manufacturer=Adafruit
+PartNumber=4684
+PartCategory=LED
+PackageCategory=Other
+PinCount=4
+Version=1.1
+Released=2021-03-26 06:24:10
+Downloaded=2023-05-25 12:45:30
+3D=Y
